@@ -1,0 +1,118 @@
+[
+ {
+  "Country": "Sweden",
+  "kg CO2 per kWh": 0.013
+ },
+ {
+  "Country": "Lithuania",
+  "kg CO2 per kWh": 0.018
+ },
+ {
+  "Country": "France",
+  "kg CO2 per kWh": 0.059
+ },
+ {
+  "Country": "Austria",
+  "kg CO2 per kWh": 0.085
+ },
+ {
+  "Country": "Latvia",
+  "kg CO2 per kWh": 0.105
+ },
+ {
+  "Country": "Finland",
+  "kg CO2 per kWh": 0.113
+ },
+ {
+  "Country": "Slovakia",
+  "kg CO2 per kWh": 0.132
+ },
+ {
+  "Country": "Denmark",
+  "kg CO2 per kWh": 0.166
+ },
+ {
+  "Country": "Belgium",
+  "kg CO2 per kWh": 0.17
+ },
+ {
+  "Country": "Croatia",
+  "kg CO2 per kWh": 0.21
+ },
+ {
+  "Country": "Luxembourg",
+  "kg CO2 per kWh": 0.219
+ },
+ {
+  "Country": "Slovenia",
+  "kg CO2 per kWh": 0.254
+ },
+ {
+  "Country": "Italy",
+  "kg CO2 per kWh": 0.256
+ },
+ {
+  "Country": "Hungary",
+  "kg CO2 per kWh": 0.26
+ },
+ {
+  "Country": "Spain",
+  "kg CO2 per kWh": 0.265
+ },
+ {
+  "Country": "UnitedKingdom",
+  "kg CO2 per kWh": 0.281
+ },
+ {
+  "Country": "EuropeanUnion(currentcomposition)",
+  "kg CO2 per kWh": 0.296
+ },
+ {
+  "Country": "Romania",
+  "kg CO2 per kWh": 0.306
+ },
+ {
+  "Country": "Portugal",
+  "kg CO2 per kWh": 0.325
+ },
+ {
+  "Country": "Ireland",
+  "kg CO2 per kWh": 0.425
+ },
+ {
+  "Country": "Germany",
+  "kg CO2 per kWh": 0.441
+ },
+ {
+  "Country": "Bulgaria",
+  "kg CO2 per kWh": 0.47
+ },
+ {
+  "Country": "Netherlands",
+  "kg CO2 per kWh": 0.505
+ },
+ {
+  "Country": "Czechia",
+  "kg CO2 per kWh": 0.513
+ },
+ {
+  "Country": "Greece",
+  "kg CO2 per kWh": 0.623
+ },
+ {
+  "Country": "Malta",
+  "kg CO2 per kWh": 0.648
+ },
+ {
+  "Country": "Cyprus",
+  "kg CO2 per kWh": 0.677
+ },
+ {
+  "Country": "Poland",
+  "kg CO2 per kWh": 0.773
+ },
+ {
+  "Country": "Estonia",
+  "kg CO2 per kWh": 0.819
+ }
+]
