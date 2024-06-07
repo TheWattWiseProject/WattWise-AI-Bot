@@ -1,0 +1,67 @@
+[
+  {
+    "Transport Means": "Diesel Car",
+    "Emmissions: Kg CO2 per km per passenger": 0.183,
+    "Energy Consumption: kWh": 0.6906
+  },
+  {
+    "Transport Means": "Diesel Bus",
+    "Emmissions: Kg CO2 per km per passenger": 0.115,
+    "Energy Consumption: kWh": 0.4339
+  },
+  {
+    "Transport Means": "Electric Car",
+    "Emmissions: Kg CO2 per km per passenger": 0.0362,
+    "Energy Consumption: kWh": 0.1366
+  },
+  {
+    "Transport Means": "Electric Bus",
+    "Emmissions: Kg CO2 per km per passenger": 0.0356,
+    "Energy Consumption: kWh": 0.1343
+  },
+  {
+    "Transport Means": "Tram",
+    "Emmissions: Kg CO2 per km per passenger": 0.0261,
+    "Energy Consumption: kWh": 0.0985
+  },
+  {
+    "Transport Means": "Electric Metro",
+    "Emmissions: Kg CO2 per km per passenger": 0.0237,
+    "Energy Consumption: kWh": 0.0894
+  },
+  {
+    "Transport Means": "Train",
+    "Emmissions: Kg CO2 per km per passenger": 0.091,
+    "Energy Consumption: kWh": 0.343
+  },
+  {
+    "Transport Means": "Bike ",
+    "Emmissions: Kg CO2 per km per passenger": 0,
+    "Energy Consumption: kWh": 0
+  },
+  {
+    "Transport Means": "Foot",
+    "Emmissions: Kg CO2 per km per passenger": 0,
+    "Energy Consumption: kWh": 0
+  },
+  {
+    "Transport Means": "Electrical Step",
+    "Emmissions: Kg CO2 per km per passenger": 0.051,
+    "Energy Consumption: kWh": 0.192
+  },
+  {
+    "Transport Means": "Motorcycle",
+    "Emmissions: Kg CO2 per km per passenger": 0.11337,
+    "Energy Consumption: kWh": 0.4278
+  },
+  {
+    "Transport Means": "Electrical Moped/Scooter",
+    "Emmissions: Kg CO2 per km per passenger": 0.0115,
+    "Energy Consumption: kWh": 0.0434
+  },
+  {
+    "Transport Means": "Diesel Moped/Scooter",
+    "Emmissions: Kg CO2 per km per passenger": 0.00136,
+    "Energy Consumption: kWh": 0.0051
+  }
+]

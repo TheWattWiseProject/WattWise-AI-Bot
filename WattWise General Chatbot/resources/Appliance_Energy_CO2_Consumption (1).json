@@ -1,0 +1,254 @@
+[
+ {
+  "Appliances": "Blender",
+  "Energy Consumption (kWh)": 0.5,
+  "CO2 Emissions (kg CO2)": 0.1325,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Can Opener",
+  "Energy Consumption (kWh)": 0.15,
+  "CO2 Emissions (kg CO2)": 0.03975,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Coffee Machine",
+  "Energy Consumption (kWh)": 1,
+  "CO2 Emissions (kg CO2)": 0.265,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Dishwasher",
+  "Energy Consumption (kWh)": 1.2,
+  "CO2 Emissions (kg CO2)": 0.318,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Espresso Machine",
+  "Energy Consumption (kWh)": 1.25,
+  "CO2 Emissions (kg CO2)": 0.33125,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Freezer Upright 15 cu. ft.",
+  "Energy Consumption (kWh)": 1.24,
+  "CO2 Emissions (kg CO2)": 0.3286,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Freezer Chest 15 cu. ft.",
+  "Energy Consumption (kWh)": 1.08,
+  "CO2 Emissions (kg CO2)": 0.2862,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Fridge 20 cu. ft. (A.C)",
+  "Energy Consumption (kWh)": 1.411,
+  "CO2 Emissions (kg CO2)": 0.374,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Fridge 16 cu. ft. (A.C)",
+  "Energy Consumption (kWh)": 1.2,
+  "CO2 Emissions (kg CO2)": 0.318,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Garbage Disposal",
+  "Energy Consumption (kWh)": 0.45,
+  "CO2 Emissions (kg CO2)": 0.11925,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Kettle  Electric",
+  "Energy Consumption (kWh)": 1.2,
+  "CO2 Emissions (kg CO2)": 0.318,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Microwave",
+  "Energy Consumption (kWh)": 1,
+  "CO2 Emissions (kg CO2)": 0.265,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Electric Stove",
+  "Energy Consumption (kWh)": 1,
+  "CO2 Emissions (kg CO2)": 0.265,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Gas Stove",
+  "Energy Consumption (kWh)": 2.5,
+  "CO2 Emissions (kg CO2)": 0.64,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Oven",
+  "Energy Consumption (kWh)": 2.15,
+  "CO2 Emissions (kg CO2)": 0.56975,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Toaster",
+  "Energy Consumption (kWh)": 0.85,
+  "CO2 Emissions (kg CO2)": 0.22525,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Toaster Oven",
+  "Energy Consumption (kWh)": 1.2,
+  "CO2 Emissions (kg CO2)": 0.318,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Stand Mixer",
+  "Energy Consumption (kWh)": 0.3,
+  "CO2 Emissions (kg CO2)": 0.0795,
+  "Category of Appliance": "Kitchen"
+ },
+ {
+  "Appliances": "Box Fan",
+  "Energy Consumption (kWh)": 0.2,
+  "CO2 Emissions (kg CO2)": 0.053,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Ceiling Fan",
+  "Energy Consumption (kWh)": 0.12,
+  "CO2 Emissions (kg CO2)": 0.0318,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Central Air Conditioner â€“ 24,000 BTU",
+  "Energy Consumption (kWh)": 3.8,
+  "CO2 Emissions (kg CO2)": 1.007,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Central Air Conditioner â€“ 10,000 BTU",
+  "Energy Consumption (kWh)": 3.25,
+  "CO2 Emissions (kg CO2)": 0.86125,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Furnace Fan Blower",
+  "Energy Consumption (kWh)": 0.8,
+  "CO2 Emissions (kg CO2)": 0.212,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Tankless Water Heater â€“ Electric",
+  "Energy Consumption (kWh)": 15,
+  "CO2 Emissions (kg CO2)": 3.975,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Water Heater â€“ Electric",
+  "Energy Consumption (kWh)": 4.5,
+  "CO2 Emissions (kg CO2)": 1.1925,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Window Air Conditioner 10,000 BTU",
+  "Energy Consumption (kWh)": 0.9,
+  "CO2 Emissions (kg CO2)": 0.2385,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Window Air Conditioner 12,000 BTU",
+  "Energy Consumption (kWh)": 3.25,
+  "CO2 Emissions (kg CO2)": 0.86125,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Well Pump â€“ 1\/3 IHP",
+  "Energy Consumption (kWh)": 0.75,
+  "CO2 Emissions (kg CO2)": 0.19875,
+  "Category of Appliance": "Heating\/Cooling"
+ },
+ {
+  "Appliances": "Clothes Dryer â€“ Electric",
+  "Energy Consumption (kWh)": 3,
+  "CO2 Emissions (kg CO2)": 0.795,
+  "Category of Appliance": "Laundry"
+ },
+ {
+  "Appliances": "Clothes Dryer â€“ Gas",
+  "Energy Consumption (kWh)": 1.8,
+  "CO2 Emissions (kg CO2)": 0.477,
+  "Category of Appliance": "Laundry"
+ },
+ {
+  "Appliances": "Clothes Washer",
+  "Energy Consumption (kWh)": 0.8,
+  "CO2 Emissions (kg CO2)": 0.212,
+  "Category of Appliance": "Laundry"
+ },
+ {
+  "Appliances": "Iron",
+  "Energy Consumption (kWh)": 1.2,
+  "CO2 Emissions (kg CO2)": 0.318,
+  "Category of Appliance": "Laundry"
+ },
+ {
+  "Appliances": "Blu-ray Player",
+  "Energy Consumption (kWh)": 0.015,
+  "CO2 Emissions (kg CO2)": 0.003975,
+  "Category of Appliance": "Living Room"
+ },
+ {
+  "Appliances": "Cable Box",
+  "Energy Consumption (kWh)": 0.035,
+  "CO2 Emissions (kg CO2)": 0.009275,
+  "Category of Appliance": "Living Room"
+ },
+ {
+  "Appliances": "DVD Player",
+  "Energy Consumption (kWh)": 0.025,
+  "CO2 Emissions (kg CO2)": 0.006625,
+  "Category of Appliance": "Living Room"
+ },
+ {
+  "Appliances": "TV â€“ LCD",
+  "Energy Consumption (kWh)": 0.15,
+  "CO2 Emissions (kg CO2)": 0.03975,
+  "Category of Appliance": "Living Room"
+ },
+ {
+  "Appliances": "TV â€“ Plasma",
+  "Energy Consumption (kWh)": 0.2,
+  "CO2 Emissions (kg CO2)": 0.053,
+  "Category of Appliance": "Living Room"
+ },
+ {
+  "Appliances": "Satellite Dish",
+  "Energy Consumption (kWh)": 0.025,
+  "CO2 Emissions (kg CO2)": 0.006625,
+  "Category of Appliance": "Living Room"
+ },
+ {
+  "Appliances": "Stereo Receiver",
+  "Energy Consumption (kWh)": 0.45,
+  "CO2 Emissions (kg CO2)": 0.11925,
+  "Category of Appliance": "Living Room"
+ },
+ {
+  "Appliances": "Video Game Console",
+  "Energy Consumption (kWh)": 0.15,
+  "CO2 Emissions (kg CO2)": 0.03975,
+  "Category of Appliance": "Living Room"
+ },
+ {
+  "Appliances": "Phone Charge",
+  "Energy Consumption (kWh)": 0.035,
+  "CO2 Emissions (kg CO2)": 0.0093,
+  "Category of Appliance": "Everywhere"
+ },
+ {
+  "Appliances": "Laptop Charge",
+  "Energy Consumption (kWh)": 0.05,
+  "CO2 Emissions (kg CO2)": 0.01325,
+  "Category of Appliance": "Everywhere"
+ }
+]
