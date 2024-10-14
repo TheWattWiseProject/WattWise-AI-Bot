@@ -1,4 +1,4 @@
-# WattWise AI Bot
+# WattWise AI Bot - Replit Environment
 
 ## Introduction
 
